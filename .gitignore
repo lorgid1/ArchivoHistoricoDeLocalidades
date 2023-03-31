@@ -1,0 +1,12 @@
+# Ignorar cambios
+
+# Ignorar el archivo que sigue modificaciones en la libreta jupyter.
+/.ipynb_checkpoints
+
+# Ignorar las carpetas donde vienen los datos
+CSVs/
+Datos/
+
+#ignorar terminaciones
+*.csv
+*.zip

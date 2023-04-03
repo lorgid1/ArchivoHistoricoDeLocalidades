@@ -9,4 +9,5 @@ Datos/
 
 #ignorar terminaciones
 *.csv
-*.zip
+
+#*.zip
